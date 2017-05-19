@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel demo 1
+                    Laravel demo
                 </div>
 
                 <div class="links">
